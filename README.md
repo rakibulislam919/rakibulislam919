@@ -1,1 +1,17 @@
-# rakibulislam919-
+# rakibulislam919-<h1 align="center">Hi 👋, I'm Rakibul Islam</h1> <h3 align="center">Ethical Hacker | Security Researcher | OSINT Enthusiast</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4DD0E1&center=true&vCenter=true&width=500&lines=Breaking+things+to+build+them+better;Ethical+Hacking+%7C+Recon+%7C+OSINT;Always+learning%2C+always+curious." alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=rakibulislam919&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulislam919" /> <img src="https://img.shields.io/github/followers/rakibulislam919?label=Followers&style=social" alt="followers" /> </p>
+🧠 About Me
+🔭 I'm currently working on security tools & recon automation
+🌱 I'm currently learning advanced network security & OSINT techniques
+💬 Ask me about Shodan, recon, ethical hacking, browser extensions
+⚡ Fun fact: I turn boring manual recon tasks into one-click tools
+🛠️ Tools & Technologies
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,html,css,python,linux,git,github,vscode,bash" alt="skills" /> </p> <p align="left"> <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> </p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakibulislam919&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulislam919&theme=tokyonight&hide_border=true" alt="streak stats" /> </p>
+🔥 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibulislam919&theme=tokyo-night&hide_border=true" alt="contribution graph" /> </p>
+📌 Featured Project
+<p align="center"> <a href="https://github.com/rakibulislam919/shodan-recon-extractor-"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibulislam919&repo=shodan-recon-extractor-&theme=tokyonight&hide_border=true" alt="Shodan Recon Extractor" /> </a> </p>
+🌐 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="mailto:YOUR-EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"><i>⚠️ All security work is done with proper authorization only. Ethical hacking = permission first.</i></p>
