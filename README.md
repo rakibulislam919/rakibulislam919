@@ -1,3 +1,22 @@
+<div align="center">
+
+# Hi there, I'm Rakibul Islam 👋
+
+### 🛡️ Cybersecurity Enthusiast | Aspiring Ethical Hacker & Pentester
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Learning+AI-Powered+Cybersecurity;Exploring+Web+App+Pentesting;Diving+into+Networking+%26+Cryptography;Hunting+Bugs+%26+Breaking+Things+Ethically" alt="Typing SVG" />
+
+[![GitHub followers](https://img.shields.io/github/followers/rakibulislam919?label=Follow&style=social)](https://github.com/rakibulislam919)
+![Profile Views](https://komarev.com/ghpvc/?username=rakibulislam919&color=39FF14&style=flat-square)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently learning **AI-Powered Cybersecurity & Ethical Hacking** — covering Linux, Networking, Cryptography, OSINT, Web Security (OWASP Top 10), SQL Injection, XSS/CSRF, API Security, and more.
+- 🌱 Actively building skills in **Penetration Testing**, **Server & Infrastructure Security**, and **Digital Forensics**.
 - 🎯 Working toward becoming a **full-fledged Cybersecurity Specialist**.
 - 💬 Ask me about **Python**, **Linux**, **Networking**, or **Web Security basics**.
 - ⚡ Fun fact: *"Curiosity is the key to uncovering vulnerabilities. Stay curious, stay secure!"*
