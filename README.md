@@ -57,13 +57,10 @@
 <p>
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rakibulislam919&label=Repos&query=$.public_repos&color=39FF14&style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/followers/rakibulislam919?label=Followers&style=for-the-badge&color=39FF14&logo=github" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rakibulislam919&label=Public%20Gists&query=$.public_gists&color=39FF14&style=for-the-badge&logo=github" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakibulislam919&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&icon_color=39FF14&title_color=39FF14" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&theme=dracula&hide_border=true&title_color=39FF14&langs_count=8" width="30%" />
-
-<img src="https://streak-stats.demolab.com?user=rakibulislam919&theme=dracula&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="49%" />
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="30%" />
 
 </div>
 
@@ -71,9 +68,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibulislam919&repo=CVE-2025-0133&theme=dracula&hide_border=true&title_color=39FF14" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibulislam919&repo=torghost&theme=dracula&hide_border=true&title_color=39FF14" width="45%" />
+<img src="./profile/pin-1.svg" width="45%" />
+<img src="./profile/pin-2.svg" width="45%" />
 
+</div>
 </div>
 
 > *"Cybersecurity is much more than an IT topic, it's a topic of survival."* — Kevin Mitnick
