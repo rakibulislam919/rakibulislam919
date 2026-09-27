@@ -77,6 +77,6 @@
 
 > *"Cybersecurity is much more than an IT topic, it's a topic of survival."* — Kevin Mitnick
 
-![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+![Space shooter contribution graph](https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif)
 
 </div>
