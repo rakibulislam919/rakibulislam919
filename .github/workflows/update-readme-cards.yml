@@ -1,0 +1,56 @@
+name: Update README Stat Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # প্রতিদিন রাত ১২টায় (UTC) auto-run হবে
+  workflow_dispatch:        # চাইলে Actions ট্যাব থেকে ম্যানুয়ালি চালানো যাবে
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=rakibulislam919&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&icon_color=39FF14&title_color=39FF14
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=rakibulislam919&layout=compact&theme=dracula&hide_border=true&title_color=39FF14&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # নিচের দুইটা লাইনে repo=... জায়গায় আপনার আসল pin করা repo-র নাম বসান
+      - name: Generate pin card 1
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=rakibulislam919&repo=CVE-2025-0133&theme=dracula&hide_border=true&title_color=39FF14
+          path: profile/pin-1.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card 2
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=rakibulislam919&repo=torghost&theme=dracula&hide_border=true&title_color=39FF14
+          path: profile/pin-2.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || git commit -m "chore: update README stat cards"
+          git push
