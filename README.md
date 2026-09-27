@@ -54,10 +54,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakibulislam919&show_icons=true&theme=shadow_green&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&theme=shadow_green&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakibulislam919&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&cache_seconds=86400" />
 
-<img src="https://streak-stats.demolab.com?user=rakibulislam919&theme=shadow_green&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rakibulislam919&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&cache_seconds=86400" />
 
 </div>
 
