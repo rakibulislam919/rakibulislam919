@@ -59,7 +59,7 @@
 <img src="https://streak-stats.demolab.com?user=rakibulislam919&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&hide_border=true&theme=tokyonight" />
-
+<img scr+"https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&hide_border=true&theme=tokyonight" /> 
 </div>
 
 ---
