@@ -54,27 +54,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakibulislam919&show_icons=true&hide_border=true&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rakibulislam919&label=Repos&query=$.public_repos&color=39FF14&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/rakibulislam919?label=Followers&style=for-the-badge&color=39FF14&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rakibulislam919&label=Public%20Gists&query=$.public_gists&color=39FF14&style=for-the-badge&logo=github" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=rakibulislam919&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rakibulislam919&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&icon_color=39FF14&title_color=39FF14" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&theme=dracula&hide_border=true&title_color=39FF14&langs_count=8" width="30%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&hide_border=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=rakibulislam919&theme=dracula&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="49%" />
 
 </div>
 
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rakibul-islam919/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/rakibulislam919"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://discord.com/users/1399231497260761191"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
----
+#### 📌 Top Repositories
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibulislam919&repo=CVE-2025-0133&theme=dracula&hide_border=true&title_color=39FF14" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibulislam919&repo=torghost&theme=dracula&hide_border=true&title_color=39FF14" width="45%" />
+
+</div>
 
 > *"Cybersecurity is much more than an IT topic, it's a topic of survival."* — Kevin Mitnick
 
