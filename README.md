@@ -54,7 +54,10 @@
 
 <div align="center">
 
-<img src="https://github-profiles-insights.vercel.app/api/insight?username=rakibulislam919&theme=neo_green&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakibulislam919&show_icons=true&hide_border=true&theme=github_dark&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" />
+
+<img src="https://streak-stats.demolab.com?user=rakibulislam919&theme=github-dark-dimmed&hide_border=true&cache_seconds=86400" />
 
 </div>
 
