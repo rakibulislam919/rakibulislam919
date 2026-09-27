@@ -72,7 +72,6 @@
 <img src="./profile/pin-2.svg" width="45%" />
 
 </div>
-</div>
 
 > *"Cybersecurity is much more than an IT topic, it's a topic of survival."* — Kevin Mitnick
 
