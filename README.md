@@ -4,7 +4,7 @@
 
 ### 🛡️ Cybersecurity Enthusiast | Aspiring Ethical Hacker & Pentester
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Learning+AI-Powered+Cybersecurity;Exploring+Web+App+Pentesting;Diving+into+Networking+%26+Cryptography;Hunting+Bugs+%26+Breaking+Things+Ethically" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1439ff&center=true&vCenter=true&width=600&lines=Learning+AI-Powered+Cybersecurity;Exploring+Web+App+Pentesting;Diving+into+Networking+%26+Cryptography;Hunting+Bugs+%26+Breaking+Things+Ethically" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/rakibulislam919?label=Follow&style=social)](https://github.com/rakibulislam919)
 ![Profile Views](https://komarev.com/ghpvc/?username=rakibulislam919&color=39FF14&style=flat-square)
