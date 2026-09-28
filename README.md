@@ -55,12 +55,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Z4nzu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" height="175" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=rakibulislam919&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" height="175" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Z4nzu&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=rakibulislam919&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Z4nzu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6" height="145" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rakibulislam919&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6" height="145" alt="Top Languages"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
