@@ -1,8 +1,5 @@
 name: Update README Stat Cards
 
-# এই একটা ফাইলই যথেষ্ট — এটা প্রতিদিন রাত ১২টায় (UTC) এবং Actions ট্যাব থেকে
-# ম্যানুয়ালি Run করলে সবগুলো GitHub Stats card অটোমেটিক বানিয়ে/আপডেট করে দেবে।
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -17,45 +14,54 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # ১) উপরের সামারি কার্ড: Total Stars, Commits, PRs, Issues, Contributed to
-      - name: Generate profile summary card
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # উপরের কার্ড: Stars / Commits / PRs / Issues + GitHub লোগো রিং
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          USERNAME: rakibulislam919
+          card: stats
+          options: username=rakibulislam919&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ২) স্ট্রিক কার্ড: Total Contributions + Current Streak (আগুনের রিং) + Longest Streak
-      - name: Generate streak stats card
+      # মাঝের কার্ড: Total Contributions + Streak রিং + Longest Streak
+      - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=rakibulislam919&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14
+          options: user=rakibulislam919&hide_border=true&background=1a1b27&ring=70a5fd&fire=70a5fd&currStreakNum=bf91f3&currStreakLabel=bf91f3&sideNums=70a5fd&sideLabels=70a5fd&dates=38bdae&stroke=ffffff
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ৩) Most Used Languages — একটা লম্বা বার + লিস্ট
+      # নিচের কার্ড: Most Used Languages (একটা বার + দুই কলামের লিস্ট)
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=rakibulislam919&theme=dracula&hide_border=true&title_color=39FF14&langs_count=8
+          options: username=rakibulislam919&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ৪) Repos/Stars/PRs/Issues দেখানো ক্লাসিক stats কার্ড
-      - name: Generate general stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=rakibulislam919&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&icon_color=39FF14&title_color=39FF14
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # উপরে-নিচের গ্রেডিয়েন্ট লাইন
+      - name: Create divider
+        run: |
+          mkdir -p profile
+          cat > profile/divider.svg << 'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg" width="900" height="3" viewBox="0 0 900 3" preserveAspectRatio="none">
+            <defs>
+              <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+                <stop offset="0" stop-color="#7dd3fc"/>
+                <stop offset="0.5" stop-color="#ffffff"/>
+                <stop offset="0.6" stop-color="#6366f1"/>
+                <stop offset="1" stop-color="#7dd3fc"/>
+              </linearGradient>
+            </defs>
+            <rect width="900" height="3" fill="url(#g)"/>
+          </svg>
+          EOF
 
-      # সব কার্ড repo-তে কমিট করে দেওয়া হচ্ছে
       - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg profile-summary-card-output/ 2>/dev/null || true
+          git add profile/*.svg
           git diff --staged --quiet || git commit -m "chore: update README stat cards"
           git push
