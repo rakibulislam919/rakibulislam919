@@ -56,9 +56,9 @@
 
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="70%" />
 
-<img src="./profile/streak.svg" width="70%" />
+<img src="./profile/streak.svg" width="50%" />
 
-<img src="./profile/top-langs.svg" width="70%" />
+<img src="./profile/top-langs.svg" width="50%" />
 
 </div>
 
