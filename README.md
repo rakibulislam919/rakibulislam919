@@ -67,7 +67,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b27&height=80&section=footer" width="100%"/>
 </div>
 
-> *"Cybersecurity is much more than an IT topic, it's a topic of survival."* — Kevin Mitnick
+> **"Cybersecurity is much more than an IT topic, it's a topic of survival."** — Kevin Mitnick
 
 ![Space shooter contribution graph](https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif)
 
