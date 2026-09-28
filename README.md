@@ -11,7 +11,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 👨‍💻 About Me
 
@@ -21,7 +21,6 @@
 - 💬 Ask me about **Python**, **Linux**, **Networking**, or **Web Security basics**.
 - ⚡ Fun fact: *"Curiosity is the key to uncovering vulnerabilities. Stay curious, stay secure!"*
 
----
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🛠️ Tech Arsenal
@@ -48,8 +47,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
