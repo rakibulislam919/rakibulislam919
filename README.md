@@ -56,20 +56,12 @@
 
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="70%" />
 
-<img src="./profile/streak.svg" width="50%" />
+<img src="./profile/streak.svg" width="30%" />
 
-<img src="./profile/top-langs.svg" width="50%" />
-
-</div>
-
-#### 📌 Top Repositories
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibulislam919&repo=CVE-2025-0133&theme=dracula&hide_border=true&title_color=39FF14" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibulislam919&repo=torghost&theme=dracula&hide_border=true&title_color=39FF14" width="45%" />
+<img src="./profile/top-langs.svg" width="30%" />
 
 </div>
+
 > *"Cybersecurity is much more than an IT topic, it's a topic of survival."* — Kevin Mitnick
 
 ![Space shooter contribution graph](https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif)
